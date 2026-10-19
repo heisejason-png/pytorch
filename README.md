@@ -613,4 +613,6 @@ Note: This project is unrelated to [hughperkins/pytorch](https://github.com/hugh
 PyTorch has a BSD-style license, as found in the [LICENSE](LICENSE) file.
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
-https://facebook.com
+https://facebook.com  https://www.threads.net
+https://about.fb.com  https://www.meta.com/about/
+Owned by Mark Zuckerberg
